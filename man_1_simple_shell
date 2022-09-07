@@ -1,4 +1,4 @@
-.TH hsh 1 "AUGUST 10, 2022" "1.0" "hsh (simple_shell) Man Page"
+.TH hsh 1 "Sep 8, 2022" "1.0" "hsh (simple_shell) Man Page"
 
 .SH NAME
 
@@ -117,7 +117,7 @@ br.
 
 
 .SH BUGS
-No known bugs have been found/reported as of (August 10, 2022).
+No known bugs have been found/reported as of (Sep 8, 2022).
 Please report any issues/bugs to the contributors listed in the AUTHORs section.
 
 .SH AUTHOR
@@ -126,5 +126,5 @@ Please report any issues/bugs to the contributors listed in the AUTHORs section.
 sh
 
 
-MICHEAL ORIYOMI 
-MARCUS RUTH
+MILKIYAS LEKELEH
+NAOD ARARSA
